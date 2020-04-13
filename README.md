@@ -7,3 +7,4 @@ In this project Principal component analysis has been used followed by K-means c
 The figure shows the different positions around the machine. The beacons are placed on the machines. The worker is wearing a sensor and beacon recieves the signal from the sensor and detects the position of worker.
 The position data of worker has een collected for different machine states (run, stop, planned stop etc).
 This position data has been analyzed to predict work pattern.
+![Position of worker around machine](machine.jpg)
