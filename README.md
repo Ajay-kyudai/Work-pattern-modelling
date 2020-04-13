@@ -9,5 +9,5 @@ The position data of worker has een collected for different machine states (run,
 This position data has been analyzed to predict work pattern.
 To run this project clone or download the files and store in the working directory. Never forget to change the address of the files in the code.
 coding for principal component analysis has been done both in matlab and python. The file 'pca_analysis.m' is the matlab code for pca analysis and clustering. It needs Machine learning toolbox to run. 
-athe excel file 'machine 5.xlsx' is just a glimpse of data. original data is too big to be uploaded.
+The excel file 'machine 5.xlsx' is just a glimpse of data. original data is too big to be uploaded.
 ![Position of worker around machine](machine.jpg)
